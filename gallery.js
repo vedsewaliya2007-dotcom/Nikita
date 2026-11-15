@@ -4,7 +4,7 @@
 
 const images = [
 
-"https://i.ibb.co/FkPHwTYT/Snapchat-1633519399.jpg",
+"https://i.ibb.co/PZTVk7M8/Snapchat-1633519399.jpg",
 "https://i.ibb.co/7JxzssYn/Snapchat-1776907537.jpg",
 "https://i.ibb.co/s93rhP5Y/Snapchat-451324420.jpg",
 "https://i.ibb.co/SFG8BW3/Snapchat-532652507.jpg",
